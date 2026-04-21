@@ -2,8 +2,8 @@
 a simple short code Vulnerable Code using .NET 5
 
 Findings code
-csharp-sqli
-sqlconnection-hardcoded-secret
+1. csharp-sqli
+2. sqlconnection-hardcoded-secret
 
 Findings SCA
-Newtonsoft.Json
+1. Newtonsoft.Json
